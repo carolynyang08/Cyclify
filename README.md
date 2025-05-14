@@ -22,16 +22,13 @@ Cyclify connects to an ESP32 device embedded with pressure sensors via Bluetooth
 ## Screenshots & Demo
 
 ### Pairing Screen
-![Pairing Screen](images/pairing.png)
+![IMG_846EE14EC0C5-1](https://github.com/user-attachments/assets/0b534d38-3792-431b-a373-3bdc4f62470a)
 
 ### Ride Recording
 ![Ride View](images/ride.png)
 
 ### Ride Summary
 ![Summary View](images/summary.png)
-
-### Voice Alert Window
-![Voice Alerts](images/voice_alerts.png)
 
 ### Video Demo  
 [![Watch on YouTube](images/video-thumbnail.png)]([https://www.youtube.com/watch?v=c8LMHRgGiyw])
