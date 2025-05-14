@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WKCompanionAppBundleIdentifier
+&lt;string&gt;com.Cyclify&lt;/string&gt;</key>
+	<string>com.Cyclify</string>
+	<key>NSHealthUpdateUsageDescription</key>
+	<string>Cyclify saves your cycling workouts to your Health app to maintain your activity history.</string>
+	<key>NSHealthClinicalHealthRecordsShareUsageDescription</key>
+	<string>Cyclify uses health data to track your cycling workouts and provide personalized insights.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>This app uses the camera to analyze your cycling posture and provide real-time feedback.</string>
+	<key>CFBundleIdentifier</key>
+	<string></string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>Cyclify needs Bluetooth to communicate with your cycling device.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>Cyclify uses Bluetooth to connect to your bike sensor for posture tracking.</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>bluetooth-central</string>
+	</array>
+</dict>
+</plist>
