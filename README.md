@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/792a2baf-45d3-4178-b7ae-229016b0864a
 [![Watch the demo](https://img.youtube.com/vi/c8LMHRgGiyw/0.jpg)](https://www.youtube.com/watch?v=c8LMHRgGiyw)
 
 
-> More media available on our [project site](https://course.ece.cmu.edu/~ece500/projects/s25-teamc4/)
+> More media available on the [project site](https://course.ece.cmu.edu/~ece500/projects/s25-teamc4/)
 
 ---
 
