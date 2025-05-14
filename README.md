@@ -1,6 +1,6 @@
 # Cyclify
 
-Welcome to **Cyclify**, a posture-tracking app designed for cyclists. Built as part of our ECE Capstone at Carnegie Mellon University, Cyclify helps users improve riding form using pressure sensors, real-time alerts, and detailed post-ride analytics.
+Welcome to **Cyclify**, a posture-tracking app designed for cyclists. Built as part of the ECE Capstone at Carnegie Mellon University, Cyclify helps users improve riding form using pressure sensors, real-time alerts, and detailed post-ride analytics.
 
 **Capstone Project Page:**  
 https://course.ece.cmu.edu/~ece500/projects/s25-teamc4/
