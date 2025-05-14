@@ -5,13 +5,9 @@ Welcome to **Cyclify**, a posture-tracking app designed for cyclists. Built as p
 **Capstone Project Page:**  
 https://course.ece.cmu.edu/~ece500/projects/s25-teamc4/
 
----
-
 ## App Overview
 
 Cyclify connects to an ESP32 device embedded with pressure sensors via Bluetooth. It collects data during a ride, alerts users to poor posture using voice feedback, and visualizes their form performance after each ride. The app is iOS-native and uses SwiftUI, CoreBluetooth, SwiftData, and Swift Charts.
-
----
 
 ## 🔧 Features
 
@@ -22,8 +18,6 @@ Cyclify connects to an ESP32 device embedded with pressure sensors via Bluetooth
 - 📈 **Swift Charts for Ride Insights**
 - 📦 **Persistent Storage with SwiftData**
 - ⌚ **Apple Watch Integration** for heart rate and calories
-
----
 
 ## Screenshots & Demo
 
