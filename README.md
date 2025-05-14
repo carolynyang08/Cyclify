@@ -30,6 +30,9 @@ Cyclify connects to an ESP32 device embedded with pressure sensors via Bluetooth
 <h3>Ride View</h3>
 <img src="https://github.com/user-attachments/assets/87a98c55-d5ff-43cc-aa0d-1f491f31cffe" alt="Ride View" width="200"/>
 
+<h3>Ride Analytics</h3>
+<img src="https://github.com/user-attachments/assets/293df885-d3bd-4ee3-b1c5-1eac2a2dfa08" alt="Ride View" width="200"/>
+
 <h3>Apple Watch Integration View</h3>
 https://github.com/user-attachments/assets/ca94a045-1795-4ba3-8903-ffa1497e319a
 
@@ -40,9 +43,9 @@ https://github.com/user-attachments/assets/9b9b12aa-7826-4065-a9a3-ed961ba7f00d
 https://github.com/user-attachments/assets/792a2baf-45d3-4178-b7ae-229016b0864a
 
 
-
 ### Video Demo  
-[![Watch on YouTube](images/video-thumbnail.png)]([https://www.youtube.com/watch?v=c8LMHRgGiyw])
+[![Watch the demo](https://img.youtube.com/vi/c8LMHRgGiyw/0.jpg)](https://www.youtube.com/watch?v=c8LMHRgGiyw)
+
 
 > More media available on our [project site](https://course.ece.cmu.edu/~ece500/projects/s25-teamc4/)
 
